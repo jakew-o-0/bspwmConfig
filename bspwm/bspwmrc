@@ -1,0 +1,16 @@
+#!/bin/bash
+xsetroot -cursor_name left_ptr
+sxhkd &
+/home/jake/scripts/bash/randWallppr
+picom -b &
+polybar &
+ 
+bspc monitor -d 1 2 3 4
+
+bspc config border_width	0
+bspc config window_gap		20
+bspc config top_padding		22
+ 
+bspc config split_ratio		0.5
+bspc config pointer_modifier	mod1
+ 
