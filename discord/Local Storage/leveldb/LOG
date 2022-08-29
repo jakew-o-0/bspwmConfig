@@ -1,6 +1,0 @@
-2022/08/29-14:45:41.166 171b Reusing MANIFEST /home/jake/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2022/08/29-14:45:41.166 171b Recovering log #16
-2022/08/29-14:45:41.209 171b Reusing old log /home/jake/.config/discord/Local Storage/leveldb/000016.log 
-2022/08/29-14:47:43.261 17ae Level-0 table #20: started
-2022/08/29-14:47:43.405 17ae Level-0 table #20: 1108609 bytes OK
-2022/08/29-14:47:43.444 17ae Delete type=0 #16
